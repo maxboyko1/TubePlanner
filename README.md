@@ -3,7 +3,7 @@ Program for planning trips on London's commuter transit system. Transit data is 
 
 ![System Map](https://upload.wikimedia.org/wikipedia/commons/1/13/London_Underground_Overground_DLR_Crossrail_map.svg)
 
-To use the program, build using `make` and run with two command-line arguments, specifying desired start and end locations for the journey. Surround multi-word station names in quotes. If both are valid locations, program will print a series of directions to complete the fastest possible trip between the two stations.
+To use the program, build using `make` and run with two command-line arguments, specifying desired start and end locations for the journey. Surround multi-word station names in quotes. If both are valid locations, program will print a series of directions for completing the fastest possible trip between the two stations.
 
 Terminal usage example below.
 
